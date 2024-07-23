@@ -2,16 +2,16 @@
 title: Extensões do AEM
 description: A AEM oferece extensões da especificação do HTL para AEM para sua conveniência como desenvolvedor.
 exl-id: d78cb84d-f958-45e2-9c6c-df86a68277d5
-source-git-commit: ebeac25c38b81c92011c163c7860688f43547a7d
+source-git-commit: c6bb6f0954ada866cec574d480b6ea5ac0b51a3f
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 64%
+ht-degree: 41%
 
 ---
 
 # Extensões do AEM {#aem-extensions}
 
-Semelhante às [Extensões da especificação do HTL para o Apache Sling](https://sling.apache.org/documentation/bundles/scripting/scripting-htl.html#extensions-of-the-htl-specification-1), o AEM oferece algumas opções de expressão adicionais que tornam mais fácil trabalhar com conceitos do AEM diretamente nos scripts HTL.
+Semelhante às [Extensões da especificação do HTL para o Apache Sling](https://sling.apache.org/documentation/bundles/scripting/scripting-htl.html#extensions-of-the-htl-specification-1), o AEM oferece algumas opções de expressão adicionais que tornam mais fácil trabalhar com conceitos AEM diretamente nos scripts HTL.
 
 ## i18n {#i18n}
 
@@ -29,7 +29,7 @@ No AEM, `data-sly-include` pode receber uma opção `wcmmode` adicional que cont
 
 ## `data-sly-resource` {#data-sly-resource}
 
-Além dos caminhos e `Resources`, o elemento de bloco `data-sly-resource` também pode funcionar com [`Maps`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html) ou [`Records`.](https://github.com/apache/sling-org-apache-sling-scripting-sightly-runtime/blob/master/src/main/java/org/apache/sling/scripting/sightly/Record.java) Em ambas as abordagens, a propriedade de string `resourceName` deve ser fornecida. Seu valor é usado para criar um [Recurso Sintético](https://www.javadoc.io/doc/org.apache.sling/org.apache.sling.api/latest/org/apache/sling/api/resource/SyntheticResource.html) incluído no contexto de renderização. O restante das propriedades de `Record` ou `Map` passadas para `data-sly-resource` são usadas como propriedades `Resource` normais. Se a propriedade `sling:resourceType` estiver ausente neste mapa, o tipo de recurso será o valor da `resourceType` [opção de expressão](https://github.com/adobe/htl-spec/blob/1.4/SPECIFICATION.md#229-resource) ou o tipo do recurso atual que orienta a renderização.
+Além dos caminhos e `Resources`, o elemento de bloco `data-sly-resource` também pode funcionar com [`Maps`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Map.html) ou [`Records`](https://github.com/apache/sling-org-apache-sling-scripting-sightly-runtime/blob/master/src/main/java/org/apache/sling/scripting/sightly/Record.java). Em ambas as abordagens, a propriedade da Cadeia de Caracteres `resourceName` deve ser fornecida. Seu valor é usado para criar um [Recurso Sintético](https://www.javadoc.io/doc/org.apache.sling/org.apache.sling.api/latest/org/apache/sling/api/resource/SyntheticResource.html) incluído no contexto de renderização. O restante das propriedades de `Record` ou `Map` passadas para `data-sly-resource` são usadas como propriedades `Resource` normais. Se a propriedade `sling:resourceType` estiver ausente neste mapa, o tipo de recurso será o valor da `resourceType` [opção de expressão](https://github.com/adobe/htl-spec/blob/1.4/SPECIFICATION.md#229-resource) ou o tipo do recurso atual que orienta a renderização.
 
 Considerando as seguintes propriedades de mapa/registro disponíveis no escopo do script como `map`:
 

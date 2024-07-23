@@ -2,10 +2,10 @@
 title: Introdução ao HTL
 description: Saiba mais sobre HTL, o sistema de modelo do lado do servidor preferencial e recomendado para HTML no AEM, e entenda os principais conceitos dessa linguagem e seus elementos fundamentais.
 exl-id: c95eb1b3-3b96-4727-8f4f-d54e7136a8f9
-source-git-commit: ebeac25c38b81c92011c163c7860688f43547a7d
+source-git-commit: c6bb6f0954ada866cec574d480b6ea5ac0b51a3f
 workflow-type: tm+mt
 source-wordcount: '2050'
-ht-degree: 62%
+ht-degree: 61%
 
 ---
 
@@ -18,7 +18,7 @@ Este documento fornece uma visão geral da finalidade do HTL, bem como uma intro
 
 >[!TIP]
 >
->Este documento apresenta a finalidade do HTL e uma visão geral de sua estrutura e conceitos fundamentais. Em caso de dúvidas sobre sintaxes específicas, consulte a [Especificação do HTL.](specification.md)
+>Este documento apresenta a finalidade do HTL e uma visão geral de sua estrutura e conceitos fundamentais. Em caso de dúvidas sobre sintaxes específicas, consulte a [Especificação do HTL](specification.md).
 
 ## Camadas HTL {#layers}
 

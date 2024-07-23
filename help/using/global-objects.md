@@ -2,17 +2,17 @@
 title: Objetos globais do HTL
 description: Saiba mais sobre objetos enumeráveis, objetos com suporte de Java e objetos com suporte de JavaScript no HTL.
 exl-id: ca590b92-f1b3-4e44-a04a-a2c10dff256f
-source-git-commit: 88edbd2fd66de960460df5928a3b42846d32066b
+source-git-commit: c6bb6f0954ada866cec574d480b6ea5ac0b51a3f
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 100%
+source-wordcount: '164'
+ht-degree: 87%
 
 ---
 
 
 # Objetos globais do HTL {#htl-global-objects}
 
-Sem precisar especificar nada, o HTL fornece acesso a muitos objetos úteis para o desenvolvedor. Esses objetos estão além de qualquer um que possa ser introduzido por meio da [API de uso.](java-use-api.md)
+Sem precisar especificar nada, o HTL fornece acesso a muitos objetos úteis para o desenvolvedor. Esses objetos estão além de qualquer que possa ser introduzido por meio da [API de uso](java-use-api.md).
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Esses objetos fornecem acesso conveniente a informações de uso comum. Seu cont
 
 ## Objetos com suporte de Java {#java-backed-objects}
 
-Cada um dos seguintes objetos tem suporte do objeto Java correspondente.
+O objeto Java correspondente suporta cada um dos seguintes objetos.
 
 | Nome da variável | Descrição |
 |---|---|
@@ -62,4 +62,4 @@ Cada um dos seguintes objetos tem suporte do objeto Java correspondente.
 
 ## Objetos com suporte de JavaScript {#javascript-backed-objects}
 
-É possível dar suporte à lógica HTL com JavaScript. No entanto, o método preferido ou recomendado é usando [Modelos Sling.](https://sling.apache.org/documentation/bundles/models.html)
+É possível dar suporte à lógica HTL com JavaScript. No entanto, o método preferido ou recomendado é usando [Modelos Sling](https://sling.apache.org/documentation/bundles/models.html).
