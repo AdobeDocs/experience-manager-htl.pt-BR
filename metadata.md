@@ -5,17 +5,17 @@ product: adobe experience manager
 git-repo: https://github.com/AdobeDocs/experience-manager-htl.pt-BR
 index: y
 recommendations: noDisplay
-source-git-commit: f891460cc7f247723c3e78031aba385faca6acd7
+source-git-commit: 22f62868df0fcfc558e5d62434dde843a9f3ca83
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 40%
 
 ---
 
 
 # Metadados para uso interno
 
-Os metadados no sistema de autoria do GitHub são hierárquicos e definidos nos seguintes níveis crescentes de precedentes.
+O sistema de criação do GitHub define os metadados hierarquicamente, com níveis crescentes de precedentes, como visto a seguir:
 
 1. metadata.md
 1. Índice
@@ -23,7 +23,7 @@ Os metadados no sistema de autoria do GitHub são hierárquicos e definidos nos 
 
 Os metadados definidos no arquivo metadata.md se aplicam a todo o repositório, mas podem ser substituídos nos níveis de índice e artigo. Qualquer substituição dos metadados deve ser feita no nível mais baixo possível.
 
-Os metadados no repositório experience-manager-core-components.en são o mínimo necessário.
+Os metadados no repositório `experience-manager-core-components.en` são o mínimo necessário.
 
 metadata.md
 
@@ -51,4 +51,3 @@ Artigo
 * `description`
 * `index: n` (somente para versões anteriores de componentes)
 
-Informações adicionais sobre os metadados podem ser encontradas no [guia de criação interno.](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/authoring/features/metadata.html?lang=pt-BR#solution)
