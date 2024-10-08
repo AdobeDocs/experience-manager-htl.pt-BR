@@ -3,9 +3,9 @@ title: Objetos globais do HTL
 description: Saiba mais sobre objetos enumeráveis e objetos com suporte de Java no HTL.
 exl-id: ca590b92-f1b3-4e44-a04a-a2c10dff256f
 source-git-commit: b585f03d600319414b92a95f98cf9293d91538b6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -66,6 +66,6 @@ O objeto Java correspondente oferece suporte a cada um dos seguintes objetos.
 
 >[!NOTE]
 >
->[A API de uso do JavaScript](https://github.com/adobe/htl-spec/blob/master/SPECIFICATION.md#42-javascript-use-api) foi descontinuada para uso com o AEM as a Cloud Service. Em vez disso, use [a API de uso do Java.](https://experienceleague.adobe.com/en/docs/experience-manager-htl/content/java-use-ap)
+>[A API de uso do JavaScript](https://github.com/adobe/htl-spec/blob/master/SPECIFICATION.md#42-javascript-use-api) foi descontinuada para uso com o AEM as a Cloud Service. Em vez disso, use [a API de uso do Java.](https://experienceleague.adobe.com/pt-br/docs/experience-manager-htl/content/java-use-ap)
 >
->[Consulte as notas de versão do AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/deprecated-removed-features) para obter mais informações sobre recursos obsoletos e removidos.
+>[Consulte as notas de versão do AEM as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/deprecated-removed-features) para mais informações sobre recursos descontinuados e removidos.
