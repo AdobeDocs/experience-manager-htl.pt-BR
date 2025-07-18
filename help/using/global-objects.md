@@ -66,6 +66,6 @@ O objeto Java correspondente oferece suporte a cada um dos seguintes objetos.
 
 >[!NOTE]
 >
->[A API de uso do JavaScript](https://github.com/adobe/htl-spec/blob/master/SPECIFICATION.md#42-javascript-use-api) foi descontinuada para uso com o AEM as a Cloud Service. Em vez disso, use [a API de uso do Java](https://experienceleague.adobe.com/en/docs/experience-manager-htl/content/java-use-api).
+>[A API de uso do JavaScript](https://github.com/adobe/htl-spec/blob/master/SPECIFICATION.md#42-javascript-use-api) foi descontinuada para uso com o AEM as a Cloud Service. Em vez disso, use [a API de uso do Java](https://experienceleague.adobe.com/pt-br/docs/experience-manager-htl/content/java-use-api).
 >
 >Para obter mais informações sobre recursos obsoletos e removidos, consulte as [notas de versão do AEM as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/deprecated-removed-features).
