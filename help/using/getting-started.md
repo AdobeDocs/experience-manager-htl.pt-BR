@@ -2,10 +2,10 @@
 title: Introdução ao HTL
 description: Saiba mais sobre HTL, o sistema de modelo do lado do servidor preferencial e recomendado para HTML no AEM, e entenda os principais conceitos dessa linguagem e seus elementos fundamentais.
 exl-id: c95eb1b3-3b96-4727-8f4f-d54e7136a8f9
-source-git-commit: c6bb6f0954ada866cec574d480b6ea5ac0b51a3f
-workflow-type: ht
-source-wordcount: '2050'
-ht-degree: 100%
+source-git-commit: addc69e4b4e56a9b1c5f91ce9af26fa2d326d981
+workflow-type: tm+mt
+source-wordcount: '2045'
+ht-degree: 97%
 
 ---
 
@@ -18,15 +18,15 @@ Este documento fornece uma visão geral da finalidade do HTL, bem como uma intro
 
 >[!TIP]
 >
->Este documento apresenta a finalidade do HTL e uma visão geral de sua estrutura e conceitos fundamentais. Em caso de dúvidas sobre sintaxes específicas, consulte a [especificação da HTL.](specification.md)
+>Este documento apresenta a finalidade do HTL e uma visão geral de sua estrutura e conceitos fundamentais. Em caso de dúvidas sobre sintaxes específicas, consulte a [Especificação do HTL](specification.md).
 
 ## Camadas HTL {#layers}
 
 O AEM utiliza várias camadas para definir o HTL.
 
 1. **[Especificação do HTL](specification.md)** - o HTL é uma especificação de código aberto e independente de plataforma que pode ser implementada livremente por qualquer pessoa.
-1. **[Mecanismo de script HTL do Sling](specification.md)** - o projeto Sling criou a implementação de referência do HTL, que é usada pelo AEM.
-1. **[Extensões do AEM](specification.md)**: o AEM baseia-se no mecanismo de script HTL do Sling para oferecer a desenvolvedores recursos convenientes específicos do AEM.
+1. **[`Sling`Mecanismo de Script HTL](specification.md)** - O projeto `Sling` criou a implementação de referência do HTL, que é usada pelo AEM.
+1. **[Extensões do AEM](specification.md)** - O AEM se baseia no Mecanismo de Script HTL `Sling` para oferecer aos desenvolvedores recursos convenientes e específicos ao AEM.
 
 Esta documentação se limita ao uso do HTL para desenvolvimento de soluções no AEM. Assim, ela abrange as três camadas, fornecendo links para recursos externos conforme necessário.
 
