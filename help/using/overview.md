@@ -3,9 +3,9 @@ title: Visão geral da HTL
 description: Descubra como o AEM oferece compatibilidade com a HTL (Linguaguem de modelo HTML) para fornecer uma estrutura da Web produtiva de nível empresarial que melhore a segurança. Essa estrutura permite que desenvolvedores de HTML sem conhecimento em Java melhor participem de projetos do AEM.
 exl-id: 5d06ff25-d681-4b95-8375-c28a8364eb7e
 source-git-commit: addc69e4b4e56a9b1c5f91ce9af26fa2d326d981
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '677'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 98%
 >
 >**Já considerou utilizar o Edge Delivery Services para AEM?**
 >
->Você pode continuar usando os métodos descritos neste documento para projetos existentes. No entanto, para novos projetos, a Adobe recomenda aproveitar o [Edge Delivery Services.](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/edge-delivery/overview)
+>Você pode continuar usando os métodos descritos neste documento para projetos existentes. No entanto, para novos projetos, a Adobe recomenda utilizar o [Edge Delivery Services.](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/edge-delivery/overview)
 
 A Linguagem de modelo HTML (HTL), compatível com o Adobe Experience Manager (AEM), tem como objetivo fornecer uma estrutura corporativa da Web altamente produtiva que aumenta a segurança. Ela também permite que desenvolvedores de HTML sem conhecimento em Java melhor participem de projetos do AEM.
 
