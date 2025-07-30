@@ -2,10 +2,10 @@
 title: Introdução ao HTL
 description: Saiba mais sobre HTL, o sistema de modelo do lado do servidor preferencial e recomendado para HTML no AEM, e entenda os principais conceitos dessa linguagem e seus elementos fundamentais.
 exl-id: c95eb1b3-3b96-4727-8f4f-d54e7136a8f9
-source-git-commit: addc69e4b4e56a9b1c5f91ce9af26fa2d326d981
-workflow-type: ht
-source-wordcount: '2045'
-ht-degree: 100%
+source-git-commit: a496d23277902a5cd573a6a8af770f27b0269f05
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,6 +15,12 @@ ht-degree: 100%
 O HTL (Linguagem de modelo HTML) é o sistema de modelo do lado do servidor preferencial e recomendado para HTML no Adobe Experience Manager. Como em todos os sistemas de modelos HTML do lado do servidor, um arquivo HTL define a saída enviada para o navegador especificando o próprio HTML, alguma lógica de apresentação básica e as variáveis a serem avaliadas no tempo de execução.
 
 Este documento fornece uma visão geral da finalidade do HTL, bem como uma introdução aos conceitos e elementos fundamentais da linguagem.
+
+>[!TIP]
+>
+>**Você já considerou o Edge Delivery Services for AEM?**
+>
+>Você pode continuar usando os métodos descritos neste documento para projetos existentes. No entanto, para novos projetos, a Adobe recomenda utilizar o [Edge Delivery Services.](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/edge-delivery/overview)
 
 >[!TIP]
 >
