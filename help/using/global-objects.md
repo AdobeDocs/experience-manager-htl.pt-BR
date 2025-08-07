@@ -4,9 +4,9 @@ description: Saiba mais sobre objetos enumeráveis e objetos com suporte de Java
 exl-id: ca590b92-f1b3-4e44-a04a-a2c10dff256f
 index: false
 source-git-commit: a496d23277902a5cd573a6a8af770f27b0269f05
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '203'
+ht-degree: 100%
 
 ---
 
