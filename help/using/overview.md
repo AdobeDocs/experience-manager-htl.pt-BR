@@ -2,8 +2,8 @@
 title: Visão geral da HTL
 description: Descubra como o AEM oferece compatibilidade com a HTL (Linguaguem de modelo HTML) para fornecer uma estrutura da Web produtiva de nível empresarial que melhore a segurança. Essa estrutura permite que desenvolvedores de HTML sem conhecimento em Java melhor participem de projetos do AEM.
 exl-id: 5d06ff25-d681-4b95-8375-c28a8364eb7e
-source-git-commit: addc69e4b4e56a9b1c5f91ce9af26fa2d326d981
-workflow-type: ht
+source-git-commit: 350d4836d7d950b87c073f349241d16090aa3011
+workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 100%
 
