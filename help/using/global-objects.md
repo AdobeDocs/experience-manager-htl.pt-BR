@@ -3,9 +3,9 @@ title: Objetos globais do HTL
 description: Saiba mais sobre objetos enumeráveis e objetos com suporte de Java no HTL.
 exl-id: ca590b92-f1b3-4e44-a04a-a2c10dff256f
 index: false
-source-git-commit: a496d23277902a5cd573a6a8af770f27b0269f05
-workflow-type: ht
-source-wordcount: '203'
+source-git-commit: 391c5279f0021dbedaffb0c63e67e037d6c782e1
+workflow-type: tm+mt
+source-wordcount: '204'
 ht-degree: 100%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # Objetos globais do HTL {#htl-global-objects}
 
-Sem precisar especificar nada, o HTL fornece acesso a muitos objetos úteis para o desenvolvedor. Esses objetos são fornecidos além de qualquer um que possa ter sido introduzido por meio da [API de uso](java-use-api.md).
+Sem precisar especificar nada, o HTL fornece acesso a muitos objetos úteis para o desenvolvedor. Esses objetos são fornecidos além de qualquer um que possa ter sido introduzido por meio da [API de uso](https://experienceleague.adobe.com/pt-br/docs/experience-manager-htl/content/java-use-api).
 
 >[!NOTE]
 >
