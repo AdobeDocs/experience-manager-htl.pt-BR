@@ -20,7 +20,7 @@ ht-degree: 99%
 
 A Linguagem de modelo HTML (HTL), compatível com o Adobe Experience Manager (AEM), tem como objetivo fornecer uma estrutura corporativa da Web altamente produtiva que aumenta a segurança. Ela também permite que desenvolvedores de HTML sem conhecimento em Java melhor participem de projetos do AEM.
 
-[Introduzida no AEM 6.0](https://experienceleague.adobe.com/en/docs/experience-manager-htl/content/history), a Linguagem de modelo HTML é o sistema de modelo do lado do servidor preferencial e recomendado para HTML no AEM. Para desenvolvedores da Web que precisam criar sites corporativos robustos, a Linguagem de modelo HTML ajuda a aumentar a segurança e a eficiência do desenvolvimento.
+[Introduzida no AEM 6.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-htl/content/history), a Linguagem de modelo HTML é o sistema de modelo do lado do servidor preferencial e recomendado para HTML no AEM. Para desenvolvedores da Web que precisam criar sites corporativos robustos, a Linguagem de modelo HTML ajuda a aumentar a segurança e a eficiência do desenvolvimento.
 
 <!--
 history.md
@@ -58,7 +58,7 @@ O vídeo a seguir, retirado de uma [sessão do AEM Gems](https://experienceleagu
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
-Observe que o vídeo se refere à HTL por [seu antigo nome, Sightly](https://experienceleague.adobe.com/en/docs/experience-manager-htl/content/history).
+Observe que o vídeo se refere à HTL por [seu antigo nome, Sightly](https://experienceleague.adobe.com/pt-br/docs/experience-manager-htl/content/history).
 
 <!--
 history.md
@@ -66,7 +66,7 @@ history.md
 
 ## Próximas etapas {#next-steps}
 
-Agora que você conhece os objetivos e as vantagens da HTL, já pode começar com a linguagem. Consulte [Introdução à Linguagem de modelo HTML](https://experienceleague.adobe.com/en/docs/experience-manager-htl/content/getting-started).
+Agora que você conhece os objetivos e as vantagens da HTL, já pode começar com a linguagem. Consulte [Introdução à Linguagem de modelo HTML](https://experienceleague.adobe.com/pt-br/docs/experience-manager-htl/content/getting-started).
 
 <!--
 getting-started.md
