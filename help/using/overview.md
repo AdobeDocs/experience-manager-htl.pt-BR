@@ -2,10 +2,10 @@
 title: Visão geral da HTL
 description: Descubra como o AEM oferece compatibilidade com a HTL (Linguaguem de modelo HTML) para fornecer uma estrutura da Web produtiva de nível empresarial que melhore a segurança. Essa estrutura permite que desenvolvedores de HTML sem conhecimento em Java melhor participem de projetos do AEM.
 exl-id: 5d06ff25-d681-4b95-8375-c28a8364eb7e
-source-git-commit: 391c5279f0021dbedaffb0c63e67e037d6c782e1
+source-git-commit: 84db446b019d74070ce4af64091dd0674dab9d33
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 99%
+source-wordcount: '677'
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 99%
 
 A Linguagem de modelo HTML (HTL), compatível com o Adobe Experience Manager (AEM), tem como objetivo fornecer uma estrutura corporativa da Web altamente produtiva que aumenta a segurança. Ela também permite que desenvolvedores de HTML sem conhecimento em Java melhor participem de projetos do AEM.
 
-[Introduzida no AEM 6.0](https://experienceleague.adobe.com/pt-br/docs/experience-manager-htl/content/history), a Linguagem de modelo HTML é o sistema de modelo do lado do servidor preferencial e recomendado para HTML no AEM. Para desenvolvedores da Web que precisam criar sites corporativos robustos, a Linguagem de modelo HTML ajuda a aumentar a segurança e a eficiência do desenvolvimento.
+[Introduzida no AEM 6.0](history.md), a Linguagem de modelo HTML é o sistema de modelo do lado do servidor preferencial e recomendado para HTML no AEM. Para desenvolvedores da Web que precisam criar sites corporativos robustos, a Linguagem de modelo HTML ajuda a aumentar a segurança e a eficiência do desenvolvimento.
 
 <!--
 history.md
@@ -58,16 +58,8 @@ O vídeo a seguir, retirado de uma [sessão do AEM Gems](https://experienceleagu
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
-Observe que o vídeo se refere à HTL por [seu antigo nome, Sightly](https://experienceleague.adobe.com/pt-br/docs/experience-manager-htl/content/history).
-
-<!--
-history.md
--->
+Observe que o vídeo se refere à HTL por [seu antigo nome, Sightly](history.md).
 
 ## Próximas etapas {#next-steps}
 
-Agora que você conhece os objetivos e as vantagens da HTL, já pode começar com a linguagem. Consulte [Introdução à Linguagem de modelo HTML](https://experienceleague.adobe.com/pt-br/docs/experience-manager-htl/content/getting-started).
-
-<!--
-getting-started.md
--->
+Agora que você conhece os objetivos e as vantagens da HTL, já pode começar com a linguagem. Consulte [Introdução à Linguagem de modelo HTML](getting-started.md).
