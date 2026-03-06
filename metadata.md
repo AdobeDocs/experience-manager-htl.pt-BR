@@ -2,15 +2,15 @@
 solution: Experience Manager
 type: Documentation
 product: adobe experience manager
-git-repo: https://github.com/AdobeDocs/experience-manager-htl.pt-BR
-index: y
+git-repo: https://github.com/AdobeDocs/experience-manager-htl.en
+index: true
 landing-page-name: experience-manager
 landing-page-breadcrumb-title: AEM
 recommendations: noDisplay
-source-git-commit: 5c7a0f5795bcbb3b4a5fb34f2d49aad6aa31122f
+source-git-commit: 944fa924e7ccba0a195b2c92584ab75df86b1f83
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 40%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 40%
 O sistema de criação do GitHub define os metadados hierarquicamente, com níveis crescentes de precedentes, como visto a seguir:
 
 1. metadata.md
-1. Índice
+1. ToC
 1. Artigo
 
 Os metadados definidos no arquivo metadata.md se aplicam a todo o repositório, mas podem ser substituídos nos níveis de índice e artigo. Qualquer substituição dos metadados deve ser feita no nível mais baixo possível.
@@ -31,7 +31,7 @@ metadata.md
 
 * `product`
 * `git-repo`
-* `index: y`
+* `index: true`
 
 Não está mais em uso:
 
@@ -42,7 +42,7 @@ Não está mais em uso:
 * `tutorials-title`
 * `tutorials-url`
 
-Índices
+ToCs
 
 * `sub-product`
 * `user-guide-title`
@@ -51,5 +51,5 @@ Artigo
 
 * `title`
 * `description`
-* `index: n` (somente para versões anteriores de componentes)
+* `index: false` (somente para versões anteriores de componentes)
 
