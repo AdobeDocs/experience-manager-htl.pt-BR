@@ -10,8 +10,8 @@ role_v2:
 topic_v2:
   - id: a732f735-539c-44c2-ad33-4aa4f7480b3a
 source-git-commit: a9c0f2ea176e8226d8f3eb30ecff63ebafd3e2ae
-workflow-type: tm+mt
-source-wordcount: 677
+workflow-type: ht
+source-wordcount: 716
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->**Já considerou utilizar o Edge Delivery Services para AEM?**
+>**Você já considerou o Edge Delivery Services for AEM?**
 >
 >Você pode continuar usando os métodos descritos neste documento para projetos existentes. No entanto, para novos projetos, a Adobe recomenda utilizar o [Edge Delivery Services.](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/edge-delivery/overview)
 
