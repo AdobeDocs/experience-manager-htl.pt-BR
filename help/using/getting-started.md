@@ -3,23 +3,19 @@ title: Introdução ao HTL
 description: Saiba mais sobre HTL, o sistema de modelo do lado do servidor preferencial e recomendado para HTML no AEM, e entenda os principais conceitos dessa linguagem e seus elementos fundamentais.
 exl-id: c95eb1b3-3b96-4727-8f4f-d54e7136a8f9
 TQID: https://experienceleague.adobe.com/6IcNpWu2-PLGresZ1H-HM9HAFL-dY5eF0OyIdXJbJ4s
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: a732f735-539c-44c2-ad33-4aa4f7480b3a
-  - id: ea99d093-20a6-45a0-99ac-a82e7018eb37
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a732f735-539c-44c2-ad33-4aa4f7480b3aid: ea99d093-20a6-45a0-99ac-a82e7018eb37
 source-git-commit: f487047a68e98d1b089e0e7124ab91f3281d51ad
-workflow-type: tm+mt
-source-wordcount: 2077
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: 2153
+ht-degree: 100%
 
 ---
 
 # Introdução ao HTL {#getting-started-with-htl}
 
-A Linguagem de modelo do HTML (HTL) é o sistema de modelo do lado do servidor preferencial e recomendado para o HTML no Adobe Experience Manager. Como em todos os sistemas de modelos HTML do lado do servidor, um arquivo HTL define a saída enviada para o navegador especificando o próprio HTML, alguma lógica de apresentação básica e as variáveis a serem avaliadas no tempo de execução.
+A Linguagem de modelo HTML (HTL) é o sistema de modelo do lado do servidor preferencial e recomendado para HTML no Adobe Experience Manager.Como em todos os sistemas de modelos HTML do lado do servidor, um arquivo HTL define a saída enviada para o navegador especificando o próprio HTML, alguma lógica de apresentação básica e as variáveis a serem avaliadas no tempo de execução.
 
 Este documento fornece uma visão geral da finalidade do HTL, bem como uma introdução aos conceitos e elementos fundamentais da linguagem.
 
@@ -184,7 +180,7 @@ Este é um exemplo de como definir o contexto de expressões colocadas dentro de
 <style> a { font-family: "${myFont @ context='styleString'}"; } </style>
 ```
 
-Para obter mais detalhes sobre como controlar o escape, consulte a seção [Contexto de exibição da linguagem de expressão](https://github.com/adobe/htl-spec/blob/master/SPECIFICATION.md#121-display-context) das especificações do HTL. 
+Para obter mais detalhes sobre como controlar o escape, consulte a seção [Contexto de exibição da linguagem de expressão](https://github.com/adobe/htl-spec/blob/master/SPECIFICATION.md#121-display-context) das especificações do HTL.
 
 ## Recursos gerais do HTL {#general-capabilities-of-htl}
 

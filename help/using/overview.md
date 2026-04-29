@@ -3,15 +3,12 @@ title: Visão geral da HTL
 description: Descubra como o AEM oferece compatibilidade com a HTL (Linguaguem de modelo HTML) para fornecer uma estrutura da Web produtiva de nível empresarial que melhore a segurança. Essa estrutura permite que desenvolvedores de HTML sem conhecimento em Java melhor participem de projetos do AEM.
 exl-id: 5d06ff25-d681-4b95-8375-c28a8364eb7e
 TQID: https://experienceleague.adobe.com/aJOvBYeraXDv104qRJqUlp7d0as9YW1lSIg0EKaAUD0
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: a732f735-539c-44c2-ad33-4aa4f7480b3a
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a732f735-539c-44c2-ad33-4aa4f7480b3a
 source-git-commit: a9c0f2ea176e8226d8f3eb30ecff63ebafd3e2ae
-workflow-type: tm+mt
-source-wordcount: 677
+workflow-type: ht
+source-wordcount: 716
 ht-degree: 100%
 
 ---
@@ -20,7 +17,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->**Já considerou utilizar o Edge Delivery Services para AEM?**
+>**Você já considerou o Edge Delivery Services for AEM?**
 >
 >Você pode continuar usando os métodos descritos neste documento para projetos existentes. No entanto, para novos projetos, a Adobe recomenda utilizar o [Edge Delivery Services.](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/edge-delivery/overview)
 
