@@ -2,24 +2,21 @@
 title: Introdução ao HTL
 description: Saiba mais sobre HTL, o sistema de modelo do lado do servidor preferencial e recomendado para HTML no AEM, e entenda os principais conceitos dessa linguagem e seus elementos fundamentais.
 exl-id: c95eb1b3-3b96-4727-8f4f-d54e7136a8f9
-TQID: https://experienceleague.adobe.com/6IcNpWu2-PLGresZ1H-HM9HAFL-dY5eF0OyIdXJbJ4s
+TQID: 'https://experienceleague.adobe.com/6IcNpWu2-PLGresZ1H-HM9HAFL-dY5eF0OyIdXJbJ4s'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: a732f735-539c-44c2-ad33-4aa4f7480b3a
-  - id: ea99d093-20a6-45a0-99ac-a82e7018eb37
-source-git-commit: f487047a68e98d1b089e0e7124ab91f3281d51ad
-workflow-type: ht
-source-wordcount: 2153
+    internal-label: Developer
+source-git-commit: ad1e15465b8b969663842d4946a1fa182821bcc1
+workflow-type: tm+mt
+source-wordcount: '2153'
 ht-degree: 100%
-
 ---
-
 # Introdução ao HTL {#getting-started-with-htl}
 
-A Linguagem de modelo HTML (HTL) é o sistema de modelo do lado do servidor preferencial e recomendado para HTML no Adobe Experience Manager.Como em todos os sistemas de modelos HTML do lado do servidor, um arquivo HTL define a saída enviada para o navegador especificando o próprio HTML, alguma lógica de apresentação básica e as variáveis a serem avaliadas no tempo de execução.
+A Linguagem de modelo HTML (HTL) é o sistema de modelo do lado do servidor preferencial e recomendado para HTML no Adobe Experience Manager. Como em todos os sistemas de modelos HTML do lado do servidor, um arquivo HTL define a saída enviada para o navegador especificando o próprio HTML, alguma lógica de apresentação básica e as variáveis a serem avaliadas no tempo de execução.
 
 Este documento fornece uma visão geral da finalidade do HTL, bem como uma introdução aos conceitos e elementos fundamentais da linguagem.
 
@@ -253,14 +250,14 @@ Novamente, esse processo é possível porque o HTL entende a sintaxe do HTML e, 
 Além disso, o tipo da variável colocada na expressão é importante:
 
 * **Sequência de caracteres:**
-   * **não vazio:** define a string como um valor de atributo.
-   * **vazio:** remove o atributo completamente.
+  * **não vazio:** define a string como um valor de atributo.
+  * **vazio:** remove o atributo completamente.
 
 * **Número:** define o valor como um valor de atributo.
 
 * **Booleano:**
-   * **true:** exibe o atributo sem valor (como um atributo HTML booleano)
-   * **false:** remove o atributo completamente.
+  * **true:** exibe o atributo sem valor (como um atributo HTML booleano)
+  * **false:** remove o atributo completamente.
 
 Este é um exemplo de como uma expressão booleana permitiria controlar um atributo HTML booleano:
 
